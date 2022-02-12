@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on to do applications.
+ 🔭 I’m currently working on to do applications.
 - 🌱 I’m currently learning fundamental components of Swift. 
 - 👯 I’m looking to collaborate on a team to do iOS Applications or porjects.  
 - 💬 Ask me about anything which are related with Swift, Clean Architecture, Clean Code, Solid Principles.
