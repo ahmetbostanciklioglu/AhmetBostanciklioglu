@@ -9,6 +9,7 @@ My goal is finishing my studying book which is called iOS Notes For Professional
 - 📫 How to reach me:  with Email: ahmetbostancikli@gmail.com or  LinkedIn: https://www.linkedin.com/in/ahmet-bostancıklıoğlu-185b13155/
 - 😄 Pronouns:  https://translate.google.com/?sl=tr&tl=en&text=Ahmet%0A&op=translate
 - ⚡ Fun fact: I love watching NBA basketball league, and I love searching, watching and writing medium stories abot deep software topics that are Clean Code, Solid Principles, Clean Architecture. 
+- https://www.google.com/search?q=iOS%C2%AE+Developer+Notes+for+Professionals+book+image&client=safari&rls=en&sxsrf=APq-WBve0Ln0QsXsacKlJa9hGP_2r-OpIA:1644708668156&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9o7Kfqfv1AhVDR_EDHc8BBwYQ_AUoAXoECAEQAw&biw=1440&bih=820&dpr=2#imgrc=HwQS_56LB0eVNM
 <!--
 **ahmetbostanciklioglu/AhmetBostanciklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
