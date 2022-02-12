@@ -1,7 +1,8 @@
 ### Hello, everyone 👋
 
-I am Ahmet. I am passionate  iOS, Swift learner. I sent my first Swift repository on 31st December. 
-My goal is finishing my studying book which is called iOS Notes For Professionals  by Goalkicker,https://goalkicker.com/iOSBook/, Secondly, uploading at least 3 or 5 apps to the Appstore with MVVM software architecture  model. Finally finding an internship firm or fulltime time working company until June 2022. 
+I am Ahmet from Gaziantep/Turkey ,
+I am a passionate  iOS, Swift learner. I sent my first Swift repository on 31st December. 
+My goal is finishing my studying book which is called iOS Notes For Professionals ,https://goalkicker.com/iOSBook/ . Secondly, I want to uploadi at least 3 or 5 apps to the AppStore with MVVM software architecture  models. Finally, finding an internship firm or fulltime time working company until June 2022. 
  🔭 I’m currently working on to do applications.
 - 🌱 I’m currently learning fundamental components of Swift and iOS. 
 - I’m looking to collaborate on a team to do iOS Applications or projects. 
