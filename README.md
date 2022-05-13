@@ -1,6 +1,6 @@
 ### Hello, I am Ahmet 👋
 
- 📆 Experienced in Android since 2022 Jauary
+ 📆 Experienced in iOS since 2022 Jauary
  🖥️ Inspired by learning something new
  
  
