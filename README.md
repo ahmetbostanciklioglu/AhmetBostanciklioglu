@@ -1,10 +1,9 @@
 ### Hello, I am Ahmet 👋
 
- 📆 Experienced in iOS since 2022 Jauary
- 🖥️ Inspired by learning something new
+
  
  
-  I am currently Junior iOS Developer who is always eager to learn new technologies and develop solutions based on them. I try to learn new things about software, and try improve myself everyday.When I is not coding, you will find me traveling the world, biking, watching films, fishing, hiking.
+  I am currently a Junior iOS Developer who is always eager to learn new technologies and develop solutions based on them. I try to learn new things about software, and try improve myself everyday. When I am not coding, you will find me traveling the world, biking, watching films, fishing, hiking.
  
 
 <!--
