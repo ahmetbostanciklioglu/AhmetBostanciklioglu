@@ -1,10 +1,15 @@
 <h1 align="center">Hi there! 🚀 I'm Ahmet Bostancıklıoğlu</h1>
 <h2 align="center">iOS developer</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetbostanciklioglu&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetbostanciklioglu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu" alt="ahmetbostanciklioglu" /></a> </p>
+
 # 💫 About Me:
 🌱 I’m currently learning **Swift**<br>🔬 I'm currently studying in Gaziantep University at Electrical and Electronic.<br>💻 I love writing code and learn anythings about it. <br>📫 How to reach me **ahmetbostancikli@gmail.com**<br>
 
-- 📄 My CV link:  [https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa](https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa)
+-  📄 Know about my experiences
+    [https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa](https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa)
 
 ## 🌐 Connect with me:
 <p align="left"> 
@@ -28,10 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbostanciklioglu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ahmetbostanciklioglu&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetbostanciklioglu&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetbostanciklioglu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu" alt="ahmetbostanciklioglu" /></a> </p>
