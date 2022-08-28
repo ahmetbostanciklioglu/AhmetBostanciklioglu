@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmet Bostanciklioglu</h1>
-<h3 align="center">A passionate iOS developer from Turkey</h3>
+<h1 align="center">Hi 👋, Ahmet Bostancıklıoğlu</h1>
+<h3 align="center">iOS developer</h3>
 
 - 🌱 I’m currently learning **UIKit**
 
