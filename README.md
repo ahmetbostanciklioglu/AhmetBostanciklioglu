@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ahmet Bostancıklıoğlu</h1>
 <h3 align="center">iOS developer</h3>
 
-- 🌱 I’m currently learning **UIKit**
+- 🌱 I’m currently learning **Swift**
 
 - 📝 I regularly write articles on [https://medium.com/@ahmetbostanciklioglu](https://medium.com/@ahmetbostanciklioglu)
 
-- 💬 Ask me about **Swift** 
+- 💬 Ask me about **UIKit** 
 
 - 📫 How to reach me **ahmetbostancikli@gmail.com**
 
