@@ -6,7 +6,7 @@
 
 - 📄 My CV link:  [https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa](https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa)
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 <p align="left"> 
 <a href="https://linkedin.com/in/ahmet bostancıklıoğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet bostancıklıoğlu" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/ahmet bostancikli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmet bostancikli" height="30" width="40" /></a>
