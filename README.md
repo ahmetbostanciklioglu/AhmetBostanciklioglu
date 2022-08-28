@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ahmet Bostancıklıoğlu</h1>
-<h3 align="center">iOS developer</h3>
+<h1 align="center">Ahmet Bostancıklıoğlu</h1>
+<h2 align="center">iOS developer</h2>
 
 # 💫 About Me:
 🌱 I’m currently learning **Swift**<br>🔬 I'm currently studying in Gaziantep University at Electrical and Electronic.<br>💻 I love writing code and learn anythings about it. <br>📫 How to reach me **ahmetbostancikli@gmail.com**<br>
