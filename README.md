@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **Swift**<br>🔬 I'm currently studying in Gaziantep University at Electrical and Electronic.<br>💻 I love writing code and learn anythings about it. <br>📫 How to reach me **ahmetbostancikli@gmail.com**<br>
+🌱 I’m currently learning **Android**<br>🔬 I'm currently studying in Gaziantep University at Electrical and Electronic.<br>💻 I love writing code and learn anythings about it. <br>📫 How to reach me **ahmetbostancikli@gmail.com**<br>
 
 -  📄 Know about my experiences
     [https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa](https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa)
