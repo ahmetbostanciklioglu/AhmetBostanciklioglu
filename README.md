@@ -1,12 +1,13 @@
 <h1 align="center">Hi there! 🚀 I'm Ahmet Bostancıklıoğlu</h1>
-<h2 align="center">An iOS Developer from Turkey</h2>
+<h2 align="center">A **Native Android Mobile Developer**</h2>
 
 
 # 💫 About Me:
 🌱 I’m currently learning **Android**<br>🔬 I'm currently studying in Gaziantep University at Electrical and Electronic.<br>💻 I love writing code and learn anythings about it. <br>📫 How to reach me **ahmetbostancikli@gmail.com**<br>
 
--  📄 Know about my experiences
-    [https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa](https://app.flowcv.com/resume-feedback/hhzrJySbiJMr1IwL1-bQa)
+-  📄 Know about my experiences, you can check my resume
+    [Ahmet_Bostancıklıoğlu_CV.pdf](https://github.com/ahmetbostanciklioglu/AhmetBostanciklioglu/files/12206468/Ahmet_Bostanciklioglu_CV.pdf)
+
 
 ## 🌐 Connect with me:
 <p align="left"> 
