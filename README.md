@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 🚀 I'm Ahmet Bostancıklıoğlu</h1>
-<h2 align="center">A **Native Android Mobile Developer**</h2>
+<h2 align="center"> Android Engineer </h2>
 
 
 # 💫 About Me:
