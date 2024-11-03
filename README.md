@@ -1,8 +1,9 @@
 <h1 align="start">Hi 👋, I'm Ahmet Bostancıklıoğlu</h1>
 <p align="start">A software engineer focused on all things UI</p>
+
 <p align="start">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=flat&column=7&margin-w=5&margin-h=7" alt="GitHub trophies"/>
   </a>
 </p>
 
