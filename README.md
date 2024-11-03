@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetbostanciklioglu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbostanciklioglu&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Languages and Tools
+## Languages and Tools:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 🌐 Connect with me:
