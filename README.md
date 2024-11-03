@@ -1,12 +1,11 @@
 <h1 align="center">Hi there! 🚀 I'm Ahmet Bostancıklıoğlu</h1>
 
+# 📊 GitHub Trophies:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub trophies"/>
   </a>
 </p>
-
-![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetbostanciklioglu&show_icons=true&theme=default&count_private=true)
 
 # 📊 GitHub Stats:
 
