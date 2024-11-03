@@ -1,7 +1,6 @@
-<h1 align="center">Hi there! 🚀 I'm Ahmet Bostancıklıoğlu</h1>
-
-# 📊 GitHub Trophies:
-<p align="center">
+<h1 align="center">Hi 👋, I'm Ahmet Bostancıklıoğlu</h1>
+<p align="start">A software engineer focused on all things UI</p>
+<p align="start">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub trophies"/>
   </a>
