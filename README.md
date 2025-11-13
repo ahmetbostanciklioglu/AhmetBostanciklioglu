@@ -1,3 +1,3 @@
 <h1 align="start">I am Ahmet Bostanciklioglu</h1>
-<p align="start">A Software Developer</p>
+<p align="start">I am an Engineer</p>
 
