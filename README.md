@@ -52,15 +52,15 @@ Full-cycle indie apps on the **App Store** & **Google Play**
 </tr>
 </table>
 
-<samp>
+<br/>
 
-- 🔭 &nbsp;Currently focused on **on-device AI** and delightful mobile UX
-- 🌱 &nbsp;Always learning — the latest iOS / Android SDKs and design trends
-- 💬 &nbsp;Ask me about **SwiftUI, mobile AI, or shipping your first app**
-- 📫 &nbsp;Reach me at **ahmetbostancikli@gmail.com**
-- ⚡ &nbsp;Fun fact: I ship faster than my coffee gets cold ☕
-
-</samp>
+> **🔭 &nbsp;Currently** &nbsp;·&nbsp; Building on-device AI features & polishing mobile UX
+>
+> **🌱 &nbsp;Learning** &nbsp;·&nbsp; The latest iOS / Android SDKs and design trends
+>
+> **💬 &nbsp;Ask me about** &nbsp;·&nbsp; SwiftUI, mobile AI, or shipping your first app
+>
+> **📫 &nbsp;Reach me** &nbsp;·&nbsp; [ahmetbostancikli@gmail.com](mailto:ahmetbostancikli@gmail.com)
 
 ---
 
