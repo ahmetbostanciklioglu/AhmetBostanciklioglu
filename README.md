@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:4776E6&height=210&section=header&text=Ahmet%20Bostanc%C4%B1kl%C4%B1o%C4%9Flu&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=iOS%20%26%20Android%20Developer%20%C2%B7%20Indie%20App%20Maker%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=56" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E48AA,100:4776E6&height=210&section=header&text=Ahmet%20Bostanc%C4%B1kl%C4%B1o%C4%9Flu&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=iOS%20%26%20Android%20Developer%20%C2%B7%20Indie%20App%20Maker%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=56" alt="header" />
 
 <a href="https://github.com/ahmetbostanciklioglu?tab=followers"><img src="https://img.shields.io/github/followers/ahmetbostanciklioglu?label=Followers&style=for-the-badge&color=6E48AA&labelColor=1c1c1c&logo=github" alt="followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=ahmetbostanciklioglu&label=Profile%20views&color=4776E6&style=for-the-badge" alt="profile views" />
@@ -17,22 +17,50 @@
 
 ## 👋 About Me
 
+> **Engineer · Entrepreneur · Indie App Maker** — I turn ideas into polished mobile products, from the first sketch to the App Store launch.
+
 ```swift
-struct Developer {
-    let name    = "Ahmet Bostancıklıoğlu"
-    let role    = "iOS & Android Developer · Indie Maker"
-    let based   = "Turkey 🇹🇷"
-    let stack   = ["SwiftUI", "Swift", "Kotlin", "Jetpack Compose"]
-    let focus   = ["Mobile Apps", "On-device & Cloud AI", "Clean Architecture"]
-    let motto   = "Design it, build it, ship it."
+struct Ahmet {
+    let role     = "iOS & Android Developer"
+    let based    = "Turkey 🇹🇷"
+    let building = ["AI-powered apps", "Reusable SwiftUI components"]
+    let toolbox  = ["SwiftUI", "Swift", "Kotlin", "Jetpack Compose"]
+    let mindset  = "Design it · Build it · Ship it"
 }
 ```
 
-- 🍏 **iOS developer** crafting polished apps with **SwiftUI & Swift** — MVVM, Liquid Glass, StoreKit, Core ML & Apple Intelligence.
-- 🤖 **Android developer** shipping with **Kotlin & Jetpack Compose** (including Compose Multiplatform for Web).
-- 🚀 **Indie maker** — I design, build, and publish AI-powered apps end-to-end on the **App Store** & **Google Play**.
-- 🧠 Passionate about **on-device & cloud AI** — Gemma, Gemini, Claude, DeepSeek and Apple Foundation Models.
-- 📫 Reach me at **ahmetbostancikli@gmail.com**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍏 &nbsp;iOS
+`SwiftUI` · `Swift` · `StoreKit` · `Core ML` · `Liquid Glass`
+
+#### 🧠 &nbsp;AI
+`Gemini` · `Claude` · `DeepSeek` · `Foundation Models`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 &nbsp;Android
+`Kotlin` · `Jetpack Compose` · `Compose Multiplatform`
+
+#### 🚀 &nbsp;Ship
+Full-cycle indie apps on the **App Store** & **Google Play**
+
+</td>
+</tr>
+</table>
+
+<samp>
+
+- 🔭 &nbsp;Currently focused on **on-device AI** and delightful mobile UX
+- 🌱 &nbsp;Always learning — the latest iOS / Android SDKs and design trends
+- 💬 &nbsp;Ask me about **SwiftUI, mobile AI, or shipping your first app**
+- 📫 &nbsp;Reach me at **ahmetbostancikli@gmail.com**
+- ⚡ &nbsp;Fun fact: I ship faster than my coffee gets cold ☕
+
+</samp>
 
 ---
 
@@ -88,6 +116,20 @@ struct Developer {
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetbostanciklioglu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4776E6&line=6E48AA&point=ffffff&area=true" alt="activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmetbostanciklioglu/AhmetBostanciklioglu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmetbostanciklioglu/AhmetBostanciklioglu/output/github-snake.svg" />
+  <img width="98%" src="https://raw.githubusercontent.com/ahmetbostanciklioglu/AhmetBostanciklioglu/output/github-snake.svg" alt="Snake eating my contribution graph" />
+</picture>
 
 </div>
 
