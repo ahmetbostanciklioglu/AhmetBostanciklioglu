@@ -69,8 +69,12 @@ struct Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmetbostanciklioglu&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=4776E6&icon_color=6E48AA" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbostanciklioglu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=4776E6" alt="top languages" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmetbostanciklioglu&theme=tokyonight" alt="profile summary" />
+
+<br/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmetbostanciklioglu&theme=tokyonight" alt="stats" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmetbostanciklioglu&theme=tokyonight" alt="repos per language" />
 
 <br/>
 
@@ -78,11 +82,12 @@ struct Developer {
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetbostanciklioglu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4776E6&line=6E48AA&point=ffffff&area=true" alt="activity graph" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmetbostanciklioglu&theme=tokyonight" alt="most used language" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmetbostanciklioglu&theme=tokyonight&utcOffset=3" alt="productive time" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetbostanciklioglu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=4776E6&line=6E48AA&point=ffffff&area=true" alt="activity graph" />
 
 </div>
 
